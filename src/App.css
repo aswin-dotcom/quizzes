@@ -1,0 +1,59 @@
+*{
+  margin: 0;
+  padding: 0 ;
+}
+body{
+  width: 100vw;
+  height: 100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+
+}
+.App{
+  width: 600px;
+  /* height: 150px; */
+  padding: 20px;
+  background-color: aliceblue;
+  border-radius: 15px;
+  text-align: center;
+ 
+
+
+}
+.options{
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+button{
+  padding: 15px 20px;
+  border-radius: 30px;
+  background-color:pink;
+  color:black;
+  cursor: pointer;
+  
+}
+.Timer{
+  margin-top: 5px;
+  /* margin-bottom: 10px; */
+  /* padding-bottom: 10px; */
+  color: maroon;
+  
+}
+.Timer span{
+  font-weight: 800;
+
+}
+.question-section h2{
+  margin:10px 0px;
+}
+.question-section p{
+ font-weight: 800;
+}
+.score-section button{
+  background-color: red;
+}

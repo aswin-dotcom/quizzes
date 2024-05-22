@@ -1,0 +1,22 @@
+[
+    {
+        "id":0,
+        "questions":"Which of the following is used in React.js to increase performance?",
+        "options":["Virtual Dom","Orginal Dom","None of above"],
+        "correctoption":"Virtual Dom"
+
+        
+    },{
+        "id":1,
+        "questions":"What is ReactJS?",
+        "options":["Server-side framework","User interface framework","None of above"],
+        "correctoption":"User interface framework"
+
+    },{
+        "id":2,
+        "questions":"Who created React.js?",
+        "options":["Jordan Walke","Jordan Mike","None of above"],
+        "correctoption":"Jordan Walke"
+
+    }
+]
